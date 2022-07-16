@@ -1,8 +1,6 @@
-# The-API-attic
-A open source collection of various API's for different languages  written and compiled by different developers . 
 
 # The API attic
-
+A open source collection of various API's for different languages  written and compiled by different developers.
 This project is a compilation of different Api's with documentation and implemetation methods written in different languages to help reduce the time to research API's as well as help out new devs.
 
 
